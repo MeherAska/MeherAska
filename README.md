@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeherAska
+- 👋 Hi, I’m Aska 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on nlp and cv.
